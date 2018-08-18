@@ -1,0 +1,15 @@
+c:\users\sase\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\sase\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\sase\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\sase\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\sase\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\sase\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\Ентрери\Desktop\Test111\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Ентрери\Desktop\Test111\Test\Test\obj\Debug\Test.exe
+C:\Users\Ентрери\Desktop\Test111\Test\Test\obj\Debug\Test.pdb
+C:\Users\Ентрери\Desktop\Test\bin\Debug\Test.exe.config
+C:\Users\Ентрери\Desktop\Test\obj\Debug\Test.exe
+C:\Users\Ентрери\Desktop\Test\obj\Debug\Test.pdb
+C:\Users\Ентрери\Desktop\Test\bin\Debug\Test.exe
+C:\Users\Ентрери\Desktop\Test\bin\Debug\Test.pdb
+C:\Users\Ентрери\Desktop\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
